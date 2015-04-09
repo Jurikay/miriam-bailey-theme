@@ -742,11 +742,7 @@ hr {
 /*---------------------------------------------------------
 Lists (_elements.scss)
 -------------------------------------------------------- */
-ul, ol {
-	margin: 0 0 23px 0;
-	margin:  0 0 1.4375rem 0;
-	padding-left: 23px;
-	padding-left: 1.4375rem; }
+
 
 ul {
 	list-style: square; }
@@ -944,36 +940,6 @@ div.wp-video-shortcode {
 /*---------------------------------------------------------
  Navigation (_posts.scss)
 -------------------------------------------------------- */
-.nav-links {
-	float: right; }
-.nav-links .nav-previous, .nav-links .nav-next {
-	display: inline-block; }
-.nav-links .nav-previous {
-	float: left;
-	margin-right: 11.5px;
-	margin-right: .71875rem; }
-.nav-links .nav-previous a, .nav-links .nav-next a {
-	display: block;
-	overflow: hidden;
-	width: 36px;
-	height: 36px;
-	margin-top: 23px;
-	margin-top: 1.4375rem;
-	white-space: nowrap;
-	text-indent: -99999px;
-	background-repeat: none; }
-.nav-links .nav-previous a {
-	background-image: url(images/arrow.svg); }
-.nav-links .nav-next a {
-	-webkit-transform: rotate(180deg);
-	-moz-transform: rotate(180deg);
-	-ms-transform: rotate(180deg);
-	-o-transform: rotate(180deg);
-	transform: rotate(180deg); 
-	background-image: url(images/arrow.svg);}
-
-.post-navigation {
-	clear: both; }
 
 /*---------------------------------------------------------
  Portfolio (_posts.scss)
@@ -1639,10 +1605,13 @@ body.infinite-scroll.blog .paging-navigation, body.infinite-scroll.archive .pagi
 //Navigation
 #navigation ul {
 	margin: 0; padding: 0; 
-	list-style-type: none; list-style-image: none; }
+	list-style-type: none;
+	list-style-image: none; }
 
 #navigation li {
-	list-style-type: none; 
+	list-style-type: none;
+	position: center;
+	text-align: center; 
 	}
 
 #navigation {
@@ -1651,7 +1620,9 @@ body.infinite-scroll.blog .paging-navigation, body.infinite-scroll.archive .pagi
 
 @media screen and (min-width: 420px) {
 #navigation {
-	text-align: center; 
+	text-align: center;
+	position: center;
+	width: 100%;
 	margin: 3em 0 0 0; }
 }
 
@@ -1690,3 +1661,28 @@ body.infinite-scroll.blog .paging-navigation, body.infinite-scroll.archive .pagi
 	#navigation li {
 	margin: 0 5.5em; }
 }
+
+// 3 Column about post
+#aboutpost {
+	font-size: 7pt;
+	font-style: italic;
+}
+/*
+#aboutpost {
+	color: #555;
+	background-color: #222;
+	  -moz-column-count: 3;
+	  -moz-column-gap: 10px;
+	  -moz-column-rule: none;
+	  -webkit-column-count: 3;
+	  -webkit-column-gap: 10px;
+	  -webkit-column-rule: none;
+	column-count: 3;
+	column-gap: 10px;
+	column-rule: none;
+	margin: 1em 0 !important;
+    float: left;
+    width: 250px;
+	}
+}
+*/

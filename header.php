@@ -44,10 +44,7 @@
 		</div>
 			<div id="navigation">
 			<ul>
-				<li><a href="<?php echo get_settings('home'); ?>">about</a></li>
-				<li><a href="wordpress/recipes/">design</a></li>
-				<li><a href="wordpress/travel/">illustration</a></li>
-				<li><a href="http://www.wordpress.org">contact</a></li>
+				<li><?php wp_nav_menu( array( 'theme_location' => 'header-menu' ) ); ?></li>
 			</ul>
 			</div>
 	</header>
