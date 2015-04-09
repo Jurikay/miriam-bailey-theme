@@ -3,9 +3,6 @@
  * @package Bailey
  */
 
-$menu_label = get_theme_mod( 'navigation-label', bailey_get_default( 'navigation-label' ) );
-$nav_menu = wp_nav_menu( array( 'theme_location' => 'primary', 'echo' => false ) )
-
 ?><!DOCTYPE html>
 <!--[if lte IE 9]><html class="no-js IE9 IE" <?php language_attributes(); ?>><![endif]-->
 <!--[if gt IE 9]><!--><html class="no-js" <?php language_attributes(); ?>><!--<![endif]-->
@@ -23,19 +20,7 @@ $nav_menu = wp_nav_menu( array( 'theme_location' => 'primary', 'echo' => false )
 <div id="site-wrapper" class="site-wrapper">
 
 	<header id="site-header" class="site-header" role="banner">
-		<?php if ( false !== $nav_menu || is_active_sidebar( 'sidebar-menu' ) ) : ?>
-		<a id="menu-toggle" href="#"><span><?php echo esc_html( $menu_label ); ?></span></a>
-		<?php endif; ?>
-
-		<div id="bailey-bar">
-			<?php if ( false !== $nav_menu ) : ?>
-			<nav id="site-navigation" class="site-navigation" role="navigation">
-				<?php echo $nav_menu; ?>
-			</nav>
-			<?php endif; ?>
-			<?php get_sidebar( 'menu' ); ?>
-		</div>
-
+		
 		<div class="site-branding">
 			<?php if ( bailey_has_logo() ) : ?>
 				<?php get_template_part( 'partials/site', 'logo' ); ?>
