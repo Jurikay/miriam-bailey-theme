@@ -12,10 +12,7 @@ $social_links = bailey_get_social_links();
 
 	<footer id="site-footer" class="site-footer" role="contentinfo">
 		<?php bailey_maybe_show_footer_widgets(); ?>
-		<?php // Social profile links
-		if ( ! empty( $social_links ) ) : ?>
 		
-		<?php endif; ?>
 	</footer>
 </div>
 
