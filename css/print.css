@@ -1,0 +1,27 @@
+/*---------------------------------------------------------
+ Print (print-style.css)
+-------------------------------------------------------- */
+* {
+	color: #000000 !important;
+	text-shadow: none !important;
+	box-shadow: none !important;
+}
+body {
+	background: none !important;
+}
+.footer-social-links a[href]:after {
+	content: " (" attr(href) ")" !important;
+}
+img {
+	max-width: 100% !important;
+}
+.portfolio-container article {
+	position: static !important;
+	clear: both !important;
+}
+/*---------------------------------------------------------
+ Hide (_print.css)
+-------------------------------------------------------- */
+#respond {
+	display: none;
+}

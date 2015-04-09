@@ -1,0 +1,1076 @@
+# Copyright (C) 2015 The Theme Foundry
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Bailey 1.0.4\n"
+"Report-Msgid-Bugs-To: https://thethemefoundry.com/support\n"
+"POT-Creation-Date: 2015-03-13 02:47:13+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: The Theme Foundry\n"
+"Language-Team: The Theme Foundry\n"
+"X-Generator: grunt-wp-i18n 0.4.9\n"
+
+#: inc/customizer/defaults.php:128
+msgid "1"
+msgstr ""
+
+#: inc/customizer/defaults.php:129
+msgid "2"
+msgstr ""
+
+#: inc/customizer/defaults.php:130
+msgid "3"
+msgstr ""
+
+#: 404.php:13
+msgid "Oops! This page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19
+msgid "Maybe try searching this website:"
+msgstr ""
+
+#: comments.php:13
+msgid "Comments"
+msgstr ""
+
+#: comments.php:18 comments.php:34
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:43
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:29
+msgid "homepage"
+msgstr ""
+
+#: functions.php:165
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:220
+msgid "Project Full Width"
+msgstr ""
+
+#: functions.php:270
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:281
+msgid "Menu Sidebar"
+msgstr ""
+
+#: functions.php:282
+msgid "Widgets placed here will appear beneath the navigation menu."
+msgstr ""
+
+#: functions.php:290
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:299
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:308
+msgid "Footer 3"
+msgstr ""
+
+#: inc/admin-ui/attached-posts.php:122
+msgid "Attached Posts"
+msgstr ""
+
+#: inc/admin-ui/attached-posts.php:123
+msgid "Selected Posts"
+msgstr ""
+
+#: inc/admin-ui/attached-posts.php:124 inc/self-hosted.php:109
+msgid "Click to add Projects. Drag and drop Selected Projects into order."
+msgstr ""
+
+#: inc/admin-ui/attached-posts.php:125
+msgid "Choose Posts"
+msgstr ""
+
+#: inc/admin-ui/attached-posts.php:126
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/admin-ui/attached-posts.php:127 inc/admin-ui/attached-posts.php:299
+#: inc/self-hosted.php:112
+msgid "Search"
+msgstr ""
+
+#: inc/admin-ui/attached-posts.php:128
+msgid "No posts available"
+msgstr ""
+
+#: inc/admin-ui/attached-posts.php:245
+msgid "Drag and drop into order"
+msgstr ""
+
+#: inc/admin-ui/attached-posts.php:248 inc/admin-ui/attached-posts.php:357
+msgid "Remove project"
+msgstr ""
+
+#: inc/admin-ui/attached-posts.php:249 inc/admin-ui/attached-posts.php:358
+msgid "&#10005;"
+msgstr ""
+
+#: inc/admin-ui/attached-posts.php:284
+msgid "Add project"
+msgstr ""
+
+#: inc/admin-ui/attached-posts.php:307 inc/customizer/sections/portfolio.php:94
+msgid "Portfolio Columns"
+msgstr ""
+
+#: inc/admin-ui/per-page.php:126 inc/customizer/bootstrap.php:60
+msgid "Colors"
+msgstr ""
+
+#: inc/admin-ui/per-page.php:139
+msgid "Sidebar"
+msgstr ""
+
+#: inc/admin-ui/per-page.php:164
+msgid "Optionally set colors for this %s only."
+msgstr ""
+
+#: inc/admin-ui/per-page.php:183
+msgid "Background Color"
+msgstr ""
+
+#: inc/admin-ui/per-page.php:184 inc/customizer/sections/color.php:39
+msgid "Accent Color"
+msgstr ""
+
+#: inc/admin-ui/per-page.php:185 inc/customizer/sections/color.php:62
+msgid "Detail Color 1"
+msgstr ""
+
+#: inc/admin-ui/per-page.php:186 inc/customizer/sections/color.php:85
+msgid "Detail Color 2"
+msgstr ""
+
+#: inc/admin-ui/per-page.php:187 inc/customizer/sections/color.php:108
+msgid "Main Color"
+msgstr ""
+
+#: inc/admin-ui/per-page.php:298
+msgid ""
+"Check the first box to allow the global setting to be overridden for this "
+"%s."
+msgstr ""
+
+#: inc/admin-ui/per-page.php:306
+msgid "Override the global setting."
+msgstr ""
+
+#: inc/admin-ui/per-page.php:310
+msgid "Show Main sidebar"
+msgstr ""
+
+#: inc/admin-ui/tinymce.php:118
+msgid "Add button"
+msgstr ""
+
+#: inc/admin-ui/tinymce.php:119
+msgid "Insert Button"
+msgstr ""
+
+#: inc/admin-ui/tinymce.php:120
+msgid "Button text"
+msgstr ""
+
+#: inc/admin-ui/tinymce.php:121
+msgid "Button URL"
+msgstr ""
+
+#: inc/admin-ui/tinymce.php:122
+msgid "Download icon"
+msgstr ""
+
+#: inc/admin-ui/tinymce.php:140
+msgid "Run In"
+msgstr ""
+
+#: inc/avatar.php:87 inc/wpcom.php:71
+msgid "Bailey Mystery Person"
+msgstr ""
+
+#: inc/customizer/bootstrap.php:58
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer/bootstrap.php:59
+msgid "Fonts"
+msgstr ""
+
+#: inc/customizer/bootstrap.php:61
+msgid "Display"
+msgstr ""
+
+#: inc/customizer/bootstrap.php:62 inc/customizer/sections/footer.php:157
+#: inc/extras.php:290 inc/portfolio/portfolios.php:273
+msgid "Portfolio"
+msgstr ""
+
+#: inc/customizer/bootstrap.php:63
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/bootstrap.php:64
+msgid "Social Profiles &amp; RSS"
+msgstr ""
+
+#: inc/customizer/bootstrap.php:83
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/defaults.php:24
+msgid "menu"
+msgstr ""
+
+#: inc/customizer/defaults.php:48
+msgid "Featured"
+msgstr ""
+
+#: inc/customizer/defaults.php:135
+msgid "Frame"
+msgstr ""
+
+#: inc/customizer/defaults.php:136
+msgid "Solid"
+msgstr ""
+
+#: inc/customizer/defaults.php:137 inc/customizer/defaults.php:145
+#: inc/gallery-slider/gallery-slider.php:114
+msgid "None"
+msgstr ""
+
+#: inc/customizer/defaults.php:142
+msgid "Landscape"
+msgstr ""
+
+#: inc/customizer/defaults.php:143
+msgid "Portrait"
+msgstr ""
+
+#: inc/customizer/defaults.php:144
+msgid "Square"
+msgstr ""
+
+#: inc/customizer/sections/background.php:21
+msgid "Background"
+msgstr ""
+
+#: inc/customizer/sections/display.php:31
+msgid "Show Main Sidebar"
+msgstr ""
+
+#: inc/customizer/sections/display.php:52 inc/customizer/sections/footer.php:52
+msgid "Blog (Posts Page)"
+msgstr ""
+
+#: inc/customizer/sections/display.php:73 inc/customizer/sections/footer.php:73
+#: inc/extras.php:286
+msgid "Archives"
+msgstr ""
+
+#: inc/customizer/sections/display.php:94 inc/customizer/sections/footer.php:94
+#: inc/extras.php:287
+msgid "Search Results"
+msgstr ""
+
+#: inc/customizer/sections/display.php:115
+#: inc/customizer/sections/footer.php:115 inc/extras.php:288
+msgid "Posts"
+msgstr ""
+
+#: inc/customizer/sections/display.php:136
+#: inc/customizer/sections/footer.php:136 inc/extras.php:289
+msgid "Pages"
+msgstr ""
+
+#: inc/customizer/sections/display.php:157
+msgid "Sticky Label"
+msgstr ""
+
+#: inc/customizer/sections/font.php:38
+msgid ""
+"It looks like you haven't authorized your theme to display Typekit fonts "
+"yet. %s"
+msgstr ""
+
+#: inc/customizer/sections/font.php:42
+msgid "Authorize now."
+msgstr ""
+
+#: inc/customizer/sections/font.php:65
+msgid "Main Font"
+msgstr ""
+
+#: inc/customizer/sections/font.php:87
+msgid "Accent Font"
+msgstr ""
+
+#: inc/customizer/sections/footer.php:31
+msgid "Show Footer Widgets"
+msgstr ""
+
+#: inc/customizer/sections/footer.php:178 inc/portfolio/portfolios.php:271
+#: inc/self-hosted.php:85
+msgid "Projects"
+msgstr ""
+
+#: inc/customizer/sections/footer.php:199
+msgid "Footer Widget Areas"
+msgstr ""
+
+#: inc/customizer/sections/footer.php:221
+msgid "Footer Text"
+msgstr ""
+
+#: inc/customizer/sections/logo.php:39
+msgid "Regular Logo"
+msgstr ""
+
+#: inc/customizer/sections/logo.php:63
+msgid "Retina Logo (2x)"
+msgstr ""
+
+#: inc/customizer/sections/logo.php:79
+msgid "The Retina Logo should be twice the size of the Regular Logo."
+msgstr ""
+
+#: inc/customizer/sections/logo.php:102
+msgid "Favicon"
+msgstr ""
+
+#: inc/customizer/sections/logo.php:119
+msgid ""
+"File must be <strong>.png</strong> or <strong>.ico</strong> format. Optimal "
+"dimensions: <strong>32px x 32px</strong>."
+msgstr ""
+
+#: inc/customizer/sections/logo.php:142
+msgid "Apple Touch Icon"
+msgstr ""
+
+#: inc/customizer/sections/logo.php:159
+msgid ""
+"File must be <strong>.png</strong> format. Optimal dimensions: "
+"<strong>152px x 152px</strong>."
+msgstr ""
+
+#: inc/customizer/sections/navigation.php:37
+msgid "Menu Button Label"
+msgstr ""
+
+#: inc/customizer/sections/portfolio.php:31
+msgid "Portfolio Display"
+msgstr ""
+
+#: inc/customizer/sections/portfolio.php:52
+msgid "Show archive title"
+msgstr ""
+
+#: inc/customizer/sections/portfolio.php:73
+msgid "Show project types and tags"
+msgstr ""
+
+#: inc/customizer/sections/portfolio.php:116
+msgid "Project Overlay Style"
+msgstr ""
+
+#: inc/customizer/sections/portfolio.php:138
+msgid "Project Image Aspect Ratio"
+msgstr ""
+
+#: inc/customizer/sections/portfolio.php:154
+msgid ""
+"Having problems with your image aspect ratio? Make sure your projects' "
+"featured images have a minimum of <strong>1042 pixels</strong> on the "
+"longest side."
+msgstr ""
+
+#: inc/customizer/sections/social.php:31
+msgid ""
+"Enter the complete URL to your profile for each service below that you "
+"would like to share."
+msgstr ""
+
+#: inc/customizer/sections/social.php:346 inc/template-tags.php:418
+msgid "Email"
+msgstr ""
+
+#: inc/customizer/sections/social.php:363
+msgid "Default RSS"
+msgstr ""
+
+#: inc/customizer/sections/social.php:384
+msgid "Hide default RSS feed link"
+msgstr ""
+
+#: inc/customizer/sections/social.php:405
+msgid "Custom RSS URL (replaces default)"
+msgstr ""
+
+#: inc/extras.php:34
+msgid "Page %s"
+msgstr ""
+
+#: inc/extras.php:254
+msgid "This widget area is currently disabled. Enable it in the Theme Customizer."
+msgstr ""
+
+#: inc/extras.php:259
+msgid ""
+"This widget area is currently enabled for the following views: %s. Change "
+"this in the Theme Customizer."
+msgstr ""
+
+#: inc/extras.php:285
+msgid "Blog (Post Page)"
+msgstr ""
+
+#: inc/extras.php:291 inc/portfolio/portfolios.php:269
+msgid "Portfolio Items"
+msgstr ""
+
+#: inc/gallery-slider/gallery-slider.php:91
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/gallery-slider/gallery-slider.php:93
+msgid "Show gallery as slider"
+msgstr ""
+
+#: inc/gallery-slider/gallery-slider.php:98
+msgid "Hide navigation arrows"
+msgstr ""
+
+#: inc/gallery-slider/gallery-slider.php:102
+msgid "Autoplay"
+msgstr ""
+
+#: inc/gallery-slider/gallery-slider.php:106
+msgid "Time between slides (ms)"
+msgstr ""
+
+#: inc/gallery-slider/gallery-slider.php:110
+msgid "Effect"
+msgstr ""
+
+#: inc/gallery-slider/gallery-slider.php:112
+msgid "Slide horizontal"
+msgstr ""
+
+#: inc/gallery-slider/gallery-slider.php:113
+msgid "Fade"
+msgstr ""
+
+#: inc/glyphs/glyphs.php:131 inc/glyphs/glyphs.php:132
+#: inc/glyphs/glyphs.php:157
+msgid "Font Authorization"
+msgstr ""
+
+#: inc/glyphs/glyphs.php:183 inc/updater/api-key.php:97
+msgid "Authorize Site"
+msgstr ""
+
+#: inc/glyphs/glyphs.php:250 inc/updater/api-key.php:153
+msgid "E-mail Address"
+msgstr ""
+
+#: inc/glyphs/glyphs.php:259 inc/updater/api-key.php:162
+msgid "Password"
+msgstr ""
+
+#: inc/glyphs/glyphs.php:268
+msgid "Typekit Kit ID"
+msgstr ""
+
+#: inc/glyphs/glyphs.php:288
+msgid "You are currently using Typekit Kit ID,"
+msgstr ""
+
+#: inc/glyphs/glyphs.php:296
+msgid "This kit does not contain any valid fonts."
+msgstr ""
+
+#: inc/glyphs/glyphs.php:301
+msgid "This kit contains the following fonts:"
+msgstr ""
+
+#: inc/glyphs/glyphs.php:311
+msgid "Problems?"
+msgstr ""
+
+#: inc/glyphs/glyphs.php:314
+msgid "Try authorizing again"
+msgstr ""
+
+#: inc/glyphs/glyphs.php:318
+msgid ""
+"<p>Please authorize your theme to display Typekit fonts with your Theme "
+"Foundry sign in credentials. If you have trouble logging in, please <a "
+"href=\"https://thethemefoundry.com/support/\">contact us in the Help "
+"Center</a>. The authorization process will send your current domain to "
+"Typekit to whitelist this site.</p>"
+msgstr ""
+
+#: inc/glyphs/glyphs.php:327
+msgid "Authorize"
+msgstr ""
+
+#: inc/glyphs/glyphs.php:332
+msgid "Use Typekit Kit ID (advanced)"
+msgstr ""
+
+#: inc/glyphs/glyphs.php:389
+msgid "Your theme is updated to use your custom Typekit Kit ID to display fonts."
+msgstr ""
+
+#: inc/glyphs/glyphs.php:397
+msgid "The Typekit ID entered is not valid"
+msgstr ""
+
+#: inc/glyphs/glyphs.php:402
+msgid "There was an error adding your Typekit ID."
+msgstr ""
+
+#: inc/glyphs/glyphs.php:448
+msgid ""
+"Your theme is authorized to display Typekit fonts! It may take up to 5 "
+"minutes for the updated fonts to appear."
+msgstr ""
+
+#: inc/glyphs/glyphs.php:491
+msgid "There was an error authorizing your theme to display Typekit fonts."
+msgstr ""
+
+#: inc/glyphs/glyphs.php:539
+msgid ""
+"Please <a href=\"%1$s\" title=\"Typekit Authentication\">authenticate your "
+"theme</a> to display Typekit premium fonts. <a href=\"#\" "
+"data-nonce=\"%2$s\" class=\"%3$s\">hide</a>"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:102 inc/portfolio/portfolios.php:123
+msgid "Your Custom Content Types"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:109 inc/portfolio/portfolios.php:130
+msgid "Portfolio Projects"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:151
+msgid "Use these settings to display different types of content on your site."
+msgstr ""
+
+#: inc/portfolio/portfolios.php:164
+msgid "Your theme supports <strong>%s</strong>"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:168
+msgid "Enable Portfolio Projects for this site."
+msgstr ""
+
+#: inc/portfolio/portfolios.php:169
+msgid "Learn More"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:179
+msgid "Portfolio pages display at most %1$s projects"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:187
+msgid ""
+"You need to <a href=\"%s\">enable portfolio</a> custom post type before you "
+"can update its settings."
+msgstr ""
+
+#: inc/portfolio/portfolios.php:272 inc/portfolio/portfolios.php:393
+msgid "Project"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:274
+msgid "All Projects"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:275
+msgid "Add New"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:276
+msgid "Add New Project"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:277
+msgid "Edit Project"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:278
+msgid "New Project"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:279
+msgid "View Project"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:280
+msgid "Search Projects"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:281
+msgid "No Projects found"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:282
+msgid "No Projects found in Trash"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:312 inc/portfolio/portfolios.php:314
+msgid "Project Types"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:313
+msgid "Project Type"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:315
+msgid "All Project Types"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:316
+msgid "Edit Project Type"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:317
+msgid "View Project Type"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:318
+msgid "Update Project Type"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:319
+msgid "Add New Project Type"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:320
+msgid "New Project Type Name"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:321
+msgid "Parent Project Type"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:322
+msgid "Parent Project Type:"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:323
+msgid "Search Project Types"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:336 inc/portfolio/portfolios.php:338
+msgid "Project Tags"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:337
+msgid "Project Tag"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:339
+msgid "All Project Tags"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:340
+msgid "Edit Project Tag"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:341
+msgid "View Project Tag"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:342
+msgid "Update Project Tag"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:343
+msgid "Add New Project Tag"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:344
+msgid "New Project Tag Name"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:345
+msgid "Search Project Tags"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:346
+msgid "Popular Project Tags"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:347
+msgid "Separate tags with commas"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:348
+msgid "Add or remove tags"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:349
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:350
+msgid "No tags found."
+msgstr ""
+
+#: inc/portfolio/portfolios.php:369
+msgid "Project updated. <a href=\"%s\">View item</a>"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:370
+msgid "Custom field updated."
+msgstr ""
+
+#: inc/portfolio/portfolios.php:371
+msgid "Custom field deleted."
+msgstr ""
+
+#: inc/portfolio/portfolios.php:372
+msgid "Project updated."
+msgstr ""
+
+#: inc/portfolio/portfolios.php:374
+#. translators: %s: date and time of the revision
+msgid "Project restored to revision from %s"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:375
+msgid "Project published. <a href=\"%s\">View project</a>"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:376
+msgid "Project saved."
+msgstr ""
+
+#: inc/portfolio/portfolios.php:377
+msgid "Project submitted. <a target=\"_blank\" href=\"%s\">Preview project</a>"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:378
+msgid ""
+"Project scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Preview project</a>"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:380
+#. translators: Publish box date format, see http:php.net/date
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:381
+msgid ""
+"Project item draft updated. <a target=\"_blank\" href=\"%s\">Preview "
+"project</a>"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:629
+msgid ""
+"Your Portfolio Archive currently has no entries. You can start creating "
+"them on your dashboard."
+msgstr ""
+
+#: inc/portfolio/portfolios.php:697
+msgid "Types"
+msgstr ""
+
+#: inc/portfolio/portfolios.php:728
+msgid "Tags"
+msgstr ""
+
+#: inc/self-hosted.php:107
+msgid "Attached Projects"
+msgstr ""
+
+#: inc/self-hosted.php:108
+msgid "Selected Projects"
+msgstr ""
+
+#: inc/self-hosted.php:110
+msgid "Choose Projects"
+msgstr ""
+
+#: inc/self-hosted.php:111
+msgid "Recent Projects"
+msgstr ""
+
+#: inc/self-hosted.php:113
+msgid "No projects available"
+msgstr ""
+
+#: inc/template-tags.php:59
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:98
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:137 inc/template-tags.php:138
+msgid "Name"
+msgstr ""
+
+#: inc/template-tags.php:139 inc/template-tags.php:140
+msgid "Email address"
+msgstr ""
+
+#: inc/template-tags.php:146
+msgid "Message..."
+msgstr ""
+
+#: inc/template-tags.php:147
+msgid "Basic <abbr title=\"HyperText Markup Language\">HTML</abbr> is allowed."
+msgstr ""
+
+#: inc/template-tags.php:148
+msgid "Comment"
+msgstr ""
+
+#: inc/template-tags.php:224
+msgid "Read more"
+msgstr ""
+
+#: inc/template-tags.php:422
+msgid "RSS"
+msgstr ""
+
+#: inc/unbox/template-unbox.php:3
+msgid "Thank you!"
+msgstr ""
+
+#: inc/unbox/template-unbox.php:8
+msgid ""
+"Thanks for choosing %1$s. It really means the world to us here at The Theme "
+"Foundry."
+msgstr ""
+
+#: inc/unbox/template-unbox.php:18
+msgid ""
+"To get started, be sure to read your <a target=\"_blank\" "
+"href=\"%1$s\">theme's documentation</a>. If you have any questions, please "
+"stop by our <a target=\"_blank\" href=\"%2$s\">support forums</a>."
+msgstr ""
+
+#: inc/unbox/template-unbox.php:30
+msgid "Click to close this message"
+msgstr ""
+
+#: inc/unbox/template-unbox.php:35
+msgid "Corey, Drew, Jennifer, Scott, and Zack"
+msgstr ""
+
+#: inc/updater/api-key.php:52 inc/updater/api-key.php:53
+msgid "Updater API Key"
+msgstr ""
+
+#: inc/updater/api-key.php:71
+msgid "Updater Authorization"
+msgstr ""
+
+#: inc/updater/api-key.php:97
+msgid "Authorize Site and Complete Update"
+msgstr ""
+
+#: inc/updater/api-key.php:182
+msgid "API Key:"
+msgstr ""
+
+#: inc/updater/api-key.php:187
+msgid "Problems? <a href=\"#\" class=\"updater-re-auth\">Try authorizing again</a>."
+msgstr ""
+
+#: inc/updater/api-key.php:192
+msgid ""
+"Please authorize your theme for automatic updates with the same credentials "
+"you use to sign into The Theme Foundry website. If you have trouble logging "
+"in, please <a href=\"https://thethemefoundry.com/support/\">contact us in "
+"the Help Center</a>. The authorization process will send your current "
+"domain and product information to authorize this site."
+msgstr ""
+
+#: inc/updater/api-key.php:268
+msgid "Your site is authorized for automatic updates from The Theme Foundry."
+msgstr ""
+
+#: inc/updater/api-key.php:285 inc/updater/api-key.php:309
+msgid ""
+"There was an error authorizing your site for automatic updates from The "
+"Theme Foundry."
+msgstr ""
+
+#: partials/content-attachment.php:18
+msgid "Download this file:"
+msgstr ""
+
+#: partials/content-none.php:10
+msgid "Nothing found"
+msgstr ""
+
+#: partials/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: partials/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: partials/content-none.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: partials/entry-author.php:9 partials/entry-byline.php:8
+msgid "Words:"
+msgstr ""
+
+#: partials/entry-date.php:8
+msgid "Published:"
+msgstr ""
+
+#: partials/entry-pagination.php:12
+msgid "Pages:"
+msgstr ""
+
+#: partials/nav-paging.php:9
+msgid "Posts navigation"
+msgstr ""
+
+#: partials/nav-paging.php:16
+msgid "Newer posts"
+msgstr ""
+
+#: partials/nav-paging.php:22
+msgid "Older posts"
+msgstr ""
+
+#: partials/nav-portfolio.php:18
+msgid "Project navigation"
+msgstr ""
+
+#: partials/nav-post.php:18
+msgid "Post navigation"
+msgstr ""
+
+#: partials/section-title.php:12 partials/section-title.php:24
+#: partials/section-title.php:30 partials/section-title.php:36
+msgid "From %s"
+msgstr ""
+
+#: partials/section-title.php:18
+msgid "Tagged %s"
+msgstr ""
+
+#: partials/section-title.php:42
+msgid "By %s"
+msgstr ""
+
+#: partials/section-title.php:60
+msgid "Archive"
+msgstr ""
+
+#: partials/section-title.php:66
+msgid "Search for %s"
+msgstr ""
+
+#: partials/section-title.php:72
+msgid "%s result found"
+msgid_plural "%s results found"
+msgstr[0] ""
+msgstr[1] ""
+
+#: searchform.php:9
+msgid "Press Enter to submit your search"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Bailey"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://thethemefoundry.com/wordpress-themes/bailey/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A minimal portfolio theme with designer grid layouts and easy-to-configure "
+"projects. Crafted with a responsive layout that looks great on large "
+"displays, tablets and mobile devices."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "The Theme Foundry"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://thethemefoundry.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Portfolio Template"
+msgstr ""
+
+#: footer.php:27
+msgctxt "attribution"
+msgid "by"
+msgstr ""
+
+#: inc/extras.php:260
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:77
+msgctxt "date"
+msgid "%1$s"
+msgstr ""
+
+#: inc/template-tags.php:92
+msgctxt "e.g. Bob says hello."
+msgid "says:"
+msgstr ""
+
+#: inc/template-tags.php:146
+msgctxt "noun"
+msgid "Message..."
+msgstr ""
+
+#: partials/section-title.php:31
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: partials/section-title.php:37
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: searchform.php:9
+msgctxt "placeholder"
+msgid "Search&hellip;"
+msgstr ""

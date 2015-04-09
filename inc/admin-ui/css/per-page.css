@@ -1,0 +1,28 @@
+.bailey_colors_wrapper {
+	display: inline-block;
+	position: relative;
+}
+.bailey_colors_wrapper label {
+	padding: 1em;
+	float: left;
+}
+.bailey_colors_wrapper label span {
+	display: block;
+}
+.bailey_colors_wrapper .wp-picker-input-wrap {
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 100%;
+	z-index: 1000;
+}
+.bailey_colors_wrapper .wp-picker-holder {
+	position: absolute;
+	top: 26px;
+	left: 100%;
+	z-index: 1000;
+}
+.bailey_colors_wrapper span {
+	margin-bottom: 1em;
+	font-weight: bold;
+}

@@ -1,0 +1,89 @@
+/*---------------------------------------------------------
+ Associated posts (attached-posts.css)
+-------------------------------------------------------- */
+.bailey-attached-posts li {
+	list-style: none;
+	cursor: move;
+	position: relative;
+	border: 1px dashed #eee;
+	background-color: #fdfdfd;
+	padding: 9px;
+}
+.bailey-attached-posts li:hover {
+	border-color: #bbb;
+}
+.bailey-choose-title {
+	margin-top: 2em;
+}
+.recent-post {
+	margin-bottom: 0;
+	border-bottom: 1px solid #eee;
+}
+.recent-post:first-of-type a.bailey-recent-post {
+	padding-top: 5px;
+}
+#posts-recent li:last-of-type {
+	border-bottom: 0;
+}
+.bailey-recent-post {
+	text-decoration: none;
+	display: block;
+	padding: 9px 9px 9px 0;
+}
+.bailey-remove-item {
+	margin-left: 10px;
+	float: right;
+	color: #bbb;
+	text-decoration: none;
+}
+.bailey-recent-post:before {
+	content: "\002B";
+	position: relative;
+	top: 1px;
+	padding-right: 3px;
+	color: #bbb;
+	font-size: 16px;
+	-webkit-font-smoothing: antialiased;
+}
+.bailey-recent-post:hover:before {
+	color: #2ea2cc;
+}
+.bailey-post-chooser {
+	margin-top: 18px;
+}
+.bailey-post-chooser li.tabs {
+	padding: 5px 5px 5px 8px;
+	background-color: #fdfdfd !important;
+}
+/*---------------------------------------------------------
+ Sortable placeholder (attached-posts.css)
+-------------------------------------------------------- */
+.bailey-attached-posts-sortable-placeholder li {
+	background: pink;
+}
+/*---------------------------------------------------------
+Borrowed from Core. The classes could not be directly applied to the HTML due to conflicts with jQuery selectors (attached-posts.css)
+-------------------------------------------------------- */
+.bailey-post-chooser .tabs-panel {
+	min-height: 42px;
+	max-height: 200px;
+	overflow: auto;
+	padding: 0 0.9em;
+	border: 1px solid #dfdfdf;
+	background-color: #fdfdfd;
+}
+/*---------------------------------------------------------
+ Toggling selectors (attached-posts.css)
+-------------------------------------------------------- */
+.bailey-active-tab {
+	display: block;
+}
+.bailey-inactive-tab {
+	display: none;
+}
+/*---------------------------------------------------------
+ Autocomplete select box (attached-posts.css)
+-------------------------------------------------------- */
+.ui-autocomplete {
+	overflow-x: hidden;
+}
